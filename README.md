@@ -15,4 +15,5 @@ Feel free to participate!
 
 ## Tools
 
+* [/kevacoin-php](https://github.com/kevachat/kevacoin-php) - PHP 8 / Composer library for web development
 * [ClitorIsProtocol](https://github.com/clitor-is-protocol) - Keep large objects in small KevaCoin blocks
